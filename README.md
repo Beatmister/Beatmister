@@ -1,6 +1,6 @@
 # Hi 👋, I'm Duc
 
-🎓 A Computer Science Student passionate about Artificial Intelligence.
+🎓 Computer Science student exploring Artificial Intelligence, Machine Learning, and Data Science.
 
 ## 🚀 About Me
 📚 Currently studying at Otto-von-Guericke University in Magdeburg<br/>
@@ -24,12 +24,18 @@
 ### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
+### LLM & RAG
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=flat)
+
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-### Tools & Version Control
+### Frameworks & Tools 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## 🎯 Goals
 
